@@ -7,7 +7,7 @@ A full-stack web application that allows users to manage student team members, b
 **Team Pixels**  
 Members:
 - Aryan Sinha [RA2211056010025]  
-- Sneha Sharma [RA2211056010027]  
+- Sneha Sharma [RA2211056010027] 
 - Divyansh [RA2211056010029]
 
 ---
